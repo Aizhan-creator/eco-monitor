@@ -1,0 +1,527 @@
+/*
+	@name eco_monitor_site
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 3435px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_eco_monitor_site_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 3435px;
+}
+
+#_bg__eco_monitor_site_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 3435px;
+	background:rgba(255,255,255,1);
+}
+
+
+#akkumis_eco_monitor_web_site_design_with_natural_blue_and_green_589c876a_c71e_43f7_bda2_285617f3c32c_3 {
+	top: 2083.5px;
+	left: 0px;
+	width: 1440px;
+	height: 351px;
+}
+
+
+#vector {
+	top: 1496.26px;
+	left: 463.5px;
+	width: 57.75px;
+	height: 130.48px;
+}
+
+
+#eco_monitor______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ {
+	top: 901.25px;
+	left: 134.25px;
+	width: 1194.35px;
+	height: 166.35px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 28.5px;
+	text-align: left;
+	color:#757575;
+}
+
+
+#______________________________________________________________________________________________________________________________________________________________________________ {
+	top: 1539.75px;
+	left: 143.25px;
+	width: 397.4px;
+	height: 243.65px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#757575;
+}
+
+
+#_22_____________________________________________________________almaty_clean___green_ {
+	top: 1539.75px;
+	left: 546px;
+	width: 373.4px;
+	height: 243.65px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#757575;
+}
+
+
+#_________24__________________________________________________________________________________________________________________________________eco_almaty__ {
+	top: 1539.75px;
+	left: 948.75px;
+	width: 399.65px;
+	height: 191.15px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#757575;
+}
+
+
+#eco_almaty__7__727__242_39_69___242_42_10______________9____________ {
+	top: 2709px;
+	left: 568.5px;
+	width: 543.35px;
+	height: 192.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 28.5px;
+	text-align: left;
+	color:#757575;
+}
+
+
+#________ {
+	top: 2601.75px;
+	left: 155.25px;
+	width: 380.6px;
+	height: 88.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align: left;
+	color:#3B7786;
+}
+
+
+#_______ {
+	top: 1155px;
+	left: 141px;
+	width: 178.6px;
+	height: 54.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align: left;
+	color:#3B7786;
+}
+
+
+#img_2518_2 {
+	top: 1233.75px;
+	left: 546px;
+	width: 353.69px;
+	height: 267.75px;
+}
+
+
+#img_5063_1 {
+	top: 1233.75px;
+	left: 140.25px;
+	width: 356.25px;
+	height: 267.75px;
+}
+
+
+#_________ {
+	top: 1805.25px;
+	left: 143.25px;
+	width: 223.25px;
+	height: 60.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 22.5px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__________ek1 {
+	top: 1717.5px;
+	left: 546px;
+	width: 223.25px;
+	height: 60.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 22.5px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__________ek2 {
+	top: 1781.25px;
+	left: 948.75px;
+	width: 223.25px;
+	height: 60.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 22.5px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+
+#vector_1 {
+	top: 1777.5px;
+	left: 141px;
+	width: 351.75px;
+	height: 2.25px;
+}
+
+
+#vector_2 {
+	top: 1691.25px;
+	left: 543.75px;
+	width: 354px;
+	height: 2.25px;
+}
+
+
+#vector_3 {
+	top: 1753.5px;
+	left: 946.5px;
+	width: 358.5px;
+	height: 2.25px;
+}
+
+
+#______________2023_11_29___16_36_1 {
+	top: 2017.5px;
+	left: 135.75px;
+	width: 1172.25px;
+	height: 508.5px;
+}
+
+
+#________ek1 {
+	top: 1940.25px;
+	left: 141px;
+	width: 284.6px;
+	height: 60.1px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align: left;
+	color:#3B7786;
+}
+
+
+#______________2023_11_29___16_40_1 {
+	top: 2683.5px;
+	left: 151.5px;
+	width: 360.75px;
+	height: 229.5px;
+}
+
+#frame_3 {
+	top: 4500px;
+	left: 1440px;
+	width: 48px;
+	height: 0.75px;
+}
+
+#_bg__frame_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 48px;
+	height: 0.75px;
+	background:#;
+}
+
+
+#akkumis_eco_monitor_web_site_design_with_natural_blue_and_green_589c876a_c71e_43f7_bda2_285617f3c32c_1 {
+	top: 3053.25px;
+	left: 0px;
+	width: 1440px;
+	height: 384.75px;
+}
+
+
+#eco_monitor_logo_2 {
+	top: 3133.5px;
+	left: 63px;
+	width: 226.5px;
+	height: 186.75px;
+}
+
+
+#___2023_eco_monitor {
+	top: 3302.25px;
+	left: 357px;
+	width: 365.9px;
+	height: 43.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#img_6547_1 {
+	top: 1233.75px;
+	left: 948.75px;
+	width: 355.35px;
+	height: 267.75px;
+}
+
+
+#__________________________________________________ {
+	top: 3148.5px;
+	left: 357px;
+	width: 381.1px;
+	height: 124.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#________________________________ {
+	top: 3193.5px;
+	left: 888.75px;
+	width: 618.65px;
+	height: 112.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#akkumis_eco_monitor_web_site_design_with_natural_blue_and_green_589c876a_c71e_43f7_bda2_285617f3c32c_4 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1108.5px;
+}
+
+
+#eco_monitor_logo_1 {
+	top: 337px;
+	left: 579px;
+	width: 287.25px;
+	height: 236.25px;
+}
+
+
+#_______________________________________________________________ {
+	top: 57.75px;
+	left: 136.5px;
+	width: 1174.4px;
+	height: 142.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#3B7786;
+}
+
+
+#rectangle_3 {
+	opacity:0.75;
+	top: 654px;
+	left: 3px;
+	width: 360px;
+	height: 140px;
+	background:rgba(146.87,218.89,238.21,1);
+}
+
+
+#rectangle_4 {
+	opacity:0.75;
+	top: 654px;
+	left: 363px;
+	width: 359px;
+	height: 140px;
+	background:rgba(45.41,136.81,131.33,1);
+}
+
+
+#rectangle_5 {
+	opacity:0.75;
+	top: 654px;
+	left: 722px;
+	width: 360px;
+	height: 140px;
+	background:rgba(35.68,111.38,141.66,1);
+}
+
+
+#rectangle_6 {
+	opacity:0.75;
+	top: 654px;
+	left: 1080px;
+	width: 360px;
+	height: 140px;
+	background:rgba(137,173,182,1);
+}
+
+
+#__________________ {
+	top: 693.01px;
+	left: 510.5px;
+	width: 208.4px;
+	height: 100.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_________________ {
+	top: 695.01px;
+	left: 149.25px;
+	width: 203.15px;
+	height: 92.9px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#___________________ {
+	top: 693.75px;
+	left: 1218px;
+	width: 216.65px;
+	height: 106.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#______________ {
+	top: 693.75px;
+	left: 862.5px;
+	width: 195.65px;
+	height: 80.9px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#ri_tree_line {
+	top: 688.26px;
+	left: 412px;
+	width: 73.5px;
+	height: 73.5px;
+}
+
+#_bg__ri_tree_line_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 73.5px;
+	height: 73.5px;
+	background:#;
+}
+
+
+#vector_ek1 {
+	top: 3.07px;
+	left: 9.18px;
+	width: 55.13px;
+	height: 64.31px;
+}
+
+#group_5 {
+	top: 691px;
+	left: 781.75px;
+	width: 47.69px;
+	height: 60.08px;
+}
+
+#_bg__group_5_ek1 {
+	top: -691px;
+	left: -782px;
+	width: 47.69px;
+	height: 60.08px;
+	background:#;
+}
+
+
+#vector__stroke_ {
+	top: 0px;
+	left: 0px;
+	width: 47.69px;
+	height: 60.08px;
+}
+
+
+#vector__stroke__ek1 {
+	top: 37px;
+	left: 24px;
+	width: 15.5px;
+	height: 14.2px;
+}
+
+
+#vector_ek2 {
+	top: 701.26px;
+	left: 61.75px;
+	width: 63.75px;
+	height: 42.59px;
+}
+
+
+#vector_ek3 {
+	top: 688.75px;
+	left: 1133.25px;
+	width: 43.5px;
+	height: 54.81px;
+}
+
+
+
+/* Add your custom CSS here */
